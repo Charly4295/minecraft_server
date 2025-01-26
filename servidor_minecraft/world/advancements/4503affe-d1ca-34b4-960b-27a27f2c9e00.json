@@ -1,0 +1,125 @@
+{
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-26 19:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:windswept_desert": "2025-01-26 19:34:41 +0000",
+      "biomeswevegone:dead_sea": "2025-01-26 19:37:05 +0000"
+    },
+    "done": false
+  },
+  "unusualend:find_warped_reef": {
+    "criteria": {
+      "find_warped_reef_0": "2025-01-26 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-01-26 19:35:21 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-01-26 19:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-01-26 19:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-01-26 19:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-01-26 19:24:23 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:windswept_desert": "2025-01-26 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "unusualend:find_gloopstone_plains": {
+    "criteria": {
+      "find_gloopstone_plains_0": "2025-01-26 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-26 19:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2025-01-26 19:22:23 +0000",
+      "minecraft:wooded_badlands": "2025-01-26 19:20:37 +0000",
+      "minecraft:sparse_jungle": "2025-01-26 19:22:46 +0000",
+      "minecraft:river": "2025-01-26 19:23:14 +0000",
+      "minecraft:lush_caves": "2025-01-26 19:23:34 +0000",
+      "minecraft:desert": "2025-01-26 19:34:02 +0000",
+      "minecraft:jungle": "2025-01-26 19:23:01 +0000",
+      "minecraft:windswept_savanna": "2025-01-26 19:37:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-26 19:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-01-26 19:24:23 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

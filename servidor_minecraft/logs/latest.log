@@ -1,0 +1,231 @@
+[26Jan2025 19:19:22.378] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[26Jan2025 19:19:22.383] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[26Jan2025 19:19:22.893] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[26Jan2025 19:19:22.973] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/minecraft_server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[26Jan2025 19:19:23.488] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jan2025 19:19:23.490] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jan2025 19:19:23.491] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jan2025 19:19:23.493] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[26Jan2025 19:19:23.755] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[26Jan2025 19:19:26.526] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Jan2025 19:19:26.677] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[26Jan2025 19:19:26.990] [main/WARN] [mixin/]: Reference map 'nitrogen_internals.refmap.json' for nitrogen_internals.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jan2025 19:19:27.008] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Jan2025 19:19:37.058] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[26Jan2025 19:19:37.059] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[26Jan2025 19:19:40.441] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[26Jan2025 19:19:40.646] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[26Jan2025 19:19:40.738] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[26Jan2025 19:19:40.740] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[26Jan2025 19:19:40.740] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[26Jan2025 19:19:40.745] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[26Jan2025 19:19:40.746] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[26Jan2025 19:19:40.748] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[26Jan2025 19:19:40.761] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[26Jan2025 19:19:40.765] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[26Jan2025 19:19:40.787] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[26Jan2025 19:19:40.795] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[26Jan2025 19:19:40.800] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[26Jan2025 19:19:40.804] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[26Jan2025 19:19:40.840] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[26Jan2025 19:19:40.977] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[26Jan2025 19:19:40.995] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[26Jan2025 19:19:41.010] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[26Jan2025 19:19:41.022] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[26Jan2025 19:19:41.062] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[26Jan2025 19:19:41.098] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[26Jan2025 19:19:41.099] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[26Jan2025 19:19:41.100] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[26Jan2025 19:19:41.108] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[26Jan2025 19:19:41.130] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[26Jan2025 19:19:41.138] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[26Jan2025 19:19:41.139] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[26Jan2025 19:19:41.141] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[26Jan2025 19:19:41.192] [modloading-worker-0/INFO] [com.aetherteam.cumulus.Cumulus/]: Disabling Cumulus as it is on server.
+[26Jan2025 19:19:41.258] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[26Jan2025 19:19:41.259] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[26Jan2025 19:19:43.634] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[26Jan2025 19:19:43.651] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[26Jan2025 19:19:44.319] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Starting version check at https://github.com/The-Aether-Team/The-Aether/raw/1.20.1-develop/update.json
+[26Jan2025 19:19:44.589] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26Jan2025 19:19:44.591] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26Jan2025 19:19:44.592] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[26Jan2025 19:19:44.593] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[26Jan2025 19:19:44.596] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[26Jan2025 19:19:44.684] [main/INFO] [terrablender/]: Registered region yungscavebiomes:overworld to index 4 for type OVERWORLD
+[26Jan2025 19:19:45.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aether] Found status: UP_TO_DATE Current: 1.20.1-1.5.1-neoforge Target: null
+[26Jan2025 19:19:45.320] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Starting version check at https://github.com/The-Aether-Team/Cumulus/raw/1.20.1-develop/update.json
+[26Jan2025 19:19:45.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cumulus_menus] Found status: UP_TO_DATE Current: 1.20.1-1.0.1-neoforge Target: null
+[26Jan2025 19:19:45.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Jan2025 19:19:45.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.25
+[26Jan2025 19:19:48.008] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Jan2025 19:19:50.084] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/assets/.mcassetsroot' uses unexpected schema
+[26Jan2025 19:19:50.085] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft_server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23143!/data/.mcassetsroot' uses unexpected schema
+[26Jan2025 19:19:53.385] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[26Jan2025 19:19:53.386] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[26Jan2025 19:19:53.490] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.491] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	twilightforest:fire_swamp (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.491] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:shaded_woodlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:crystal_dunes (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:sunset_maple_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:rising_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:crystal_roughs (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:searing_grassland (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:crescent_orchard (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.492] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.492] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	twilightforest:spooky_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	twilightforest:mushroom_forest (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.493] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:brightlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:slushlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:frostbitten_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:frostbitten_forest_clearing (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:snow_covered_pines (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:brisk_meadow (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	blue_skies:polar_highland (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.494] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	ad_astra:martian_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.494] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.495] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
+	ad_astra:glacio_ice_peaks (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:53.496] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
+[26Jan2025 19:19:55.177] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 19 recipes
+[26Jan2025 19:19:55.272] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement totw_modded:root: Expected item to be an item, was unknown string 'waystones:mossy_waystone'
+[26Jan2025 19:19:55.376] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:regular_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@133135e8, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4617cb40}, criteria={regular=net.minecraft.advancements.Criterion@46355b5}, requirements=[[regular]], sends_telemetry_event=false}
+[26Jan2025 19:19:55.378] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:ice_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@4304699d, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4617cb40}, criteria={ice=net.minecraft.advancements.Criterion@5d5442b5}, requirements=[[ice]], sends_telemetry_event=false}
+[26Jan2025 19:19:55.382] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_grass_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@4efeb5a, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4617cb40}, criteria={derelict_grass=net.minecraft.advancements.Criterion@7b515098}, requirements=[[derelict_grass]], sends_telemetry_event=false}
+[26Jan2025 19:19:55.382] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:jungle_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@4d9d8f6, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4617cb40}, criteria={jungle=net.minecraft.advancements.Criterion@75fd9d65}, requirements=[[jungle]], sends_telemetry_event=false}
+[26Jan2025 19:19:55.382] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement totw_modded:derelict_tower: Task Advancement{parentId=totw_modded:root, display=net.minecraft.advancements.DisplayInfo@1a54c3b, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@4617cb40}, criteria={derelict=net.minecraft.advancements.Criterion@18aaefdf}, requirements=[[derelict]], sends_telemetry_event=false}
+[26Jan2025 19:19:55.383] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2375 advancements
+[26Jan2025 19:19:55.398] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 16 curio slots
+[26Jan2025 19:19:55.404] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 9 curio entities
+[26Jan2025 19:19:55.452] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
+[26Jan2025 19:19:56.515] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[26Jan2025 19:19:56.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Jan2025 19:19:56.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Jan2025 19:19:56.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Jan2025 19:19:56.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Jan2025 19:19:56.840] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Jan2025 19:19:56.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Jan2025 19:19:56.970] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Jan2025 19:19:56.971] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Jan2025 19:19:56.972] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Jan2025 19:19:57.122] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26Jan2025 19:19:58.032] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26Jan2025 19:19:58.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Jan2025 19:20:06.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Jan2025 19:20:14.328] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.332] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.339] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.354] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.357] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.360] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.364] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.366] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.370] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.377] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:14.611] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:15.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:15.745] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Jan2025 19:20:16.446] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[26Jan2025 19:20:16.548] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9938 ms
+[26Jan2025 19:20:16.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.560s)! For help, type "help"
+[26Jan2025 19:20:16.602] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Jan2025 19:20:34.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charly[/127.66.103.72:55997] logged in with entity id 27 at (-6.5, 95.0, 5.5)
+[26Jan2025 19:20:34.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly joined the game
+[26Jan2025 19:20:44.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Set own game mode to Creative Mode]
+[26Jan2025 19:22:10.355] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterstrongholds:stronghold took 1143 ms
+[26Jan2025 19:22:22.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to -991.500000, 110.868136, 1840.500000]
+[26Jan2025 19:22:22.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
+[26Jan2025 19:23:21.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Set own game mode to Spectator Mode]
+[26Jan2025 19:23:51.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has made the advancement [Eye Spy]
+[26Jan2025 19:24:05.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Set own game mode to Creative Mode]
+[26Jan2025 19:24:23.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has made the advancement [The End?]
+[26Jan2025 19:24:29.009] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[26Jan2025 19:24:29.013] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[26Jan2025 19:24:29.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7171ms or 143 ticks behind
+[26Jan2025 19:24:42.157] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_barrens took 14 ms
+[26Jan2025 19:24:45.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 800.500000, 62.000000, -635.500000]
+[26Jan2025 19:25:03.862] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1036, y=86, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.862] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1037, y=86, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.863] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=87, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.863] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1038, y=87, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.863] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=87, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.864] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1037, y=87, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.864] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1038, y=87, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.864] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=88, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.864] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=88, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.865] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=88, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.865] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=88, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.865] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1038, y=88, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.866] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=88, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.866] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1038, y=88, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.866] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=88, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.867] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=89, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.867] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=89, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.867] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=89, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.868] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=89, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.868] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=89, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.869] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=89, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.869] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=89, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.869] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=89, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.870] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=90, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.870] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=90, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.873] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=90, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.873] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=91, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.873] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1036, y=87, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.874] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1038, y=89, z=-957}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.874] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=90, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.874] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [64, -60], pos: BlockPos{x=1039, y=90, z=-958}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.875] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=91, z=-959}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:03.875] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [65, -60], pos: BlockPos{x=1040, y=92, z=-960}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / unusualend:warped_rock_1_feature]
+[26Jan2025 19:25:20.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has reached the goal [Waters of Mars]
+[26Jan2025 19:25:25.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has reached the goal [Mites, Mr.Steve ! Zillions of 'em !]
+[26Jan2025 19:25:55.430] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element unusualend:gloopstone_lands took 2 ms
+[26Jan2025 19:26:06.308] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element unusualend:gloopstone_midlands took 2 ms
+[26Jan2025 19:26:10.399] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element unusualend:gloopstone_lands took 2 ms
+[26Jan2025 19:26:12.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 1077.500000, 77.000000, -931.500000]
+[26Jan2025 19:26:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 1077.500000, 77.000000, -963.500000]
+[26Jan2025 19:27:17.097] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2455, y=76, z=1520985}
+[26Jan2025 19:28:02.416] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 842 ms
+[26Jan2025 19:28:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 2608.500000, 95.611916, -1487.500000]
+[26Jan2025 19:28:17.638] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2455, y=76, z=1520985}
+[26Jan2025 19:28:25.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has made the advancement [The City at the End of the Game]
+[26Jan2025 19:31:25.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Set own game mode to Spectator Mode]
+[26Jan2025 19:31:37.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Set own game mode to Creative Mode]
+[26Jan2025 19:33:32.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly fell out of the world
+[26Jan2025 19:33:53.944] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element totw_modded:desert took 218 ms
+[26Jan2025 19:34:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 2256.500000, 125.618136, 304.500000]
+[26Jan2025 19:34:02.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5801ms or 116 ticks behind
+[26Jan2025 19:35:21.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly has made the advancement [Hostile Paradise]
+[26Jan2025 19:35:21.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2483ms or 49 ticks behind
+[26Jan2025 19:35:33.716] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element totw_modded:aether took 0 ms
+[26Jan2025 19:36:03.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Charly: Teleported Charly to 2464.500000, 92.606803, 64.500000]
+[26Jan2025 19:36:09.185] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2631, y=50, z=26}
+[26Jan2025 19:36:35.727] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=2215, y=61, z=-151}
+[26Jan2025 19:37:05.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charly moved too quickly! -0.010009215039190167,-10.806526110009145,-1.4809512483972078
+[26Jan2025 19:37:05.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10199ms or 203 ticks behind
+[26Jan2025 19:37:31.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charly lost connection: Disconnected
+[26Jan2025 19:37:31.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charly left the game
+[26Jan2025 19:37:47.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Jan2025 19:37:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Jan2025 19:37:47.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Jan2025 19:37:48.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Jan2025 19:37:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Jan2025 19:37:49.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Jan2025 19:37:49.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[26Jan2025 19:37:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Jan2025 19:37:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Jan2025 19:37:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Jan2025 19:37:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[26Jan2025 19:37:49.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
