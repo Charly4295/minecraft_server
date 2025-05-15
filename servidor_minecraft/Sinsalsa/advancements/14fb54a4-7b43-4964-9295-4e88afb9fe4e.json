@@ -1,0 +1,456 @@
+{
+  "biomeswevegone:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/trochodendroides_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/schilderia_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/agathoxylon_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/allosaurus_skeleton": {
+    "criteria": {
+      "has_the_recipe": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/woodworthia_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/rainbow_eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/metasequoia_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/skyris_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/plesiohadros_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-05-15 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/white_mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/cika_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/protojuniper_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/heidiphyllum_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-15 17:23:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/taxus_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/holly_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/zamites_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/brachyphyllum_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/liriodendrites_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/sakura_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/podozamites_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/schizolepidopsis_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:mojave_desert": "2025-05-15 17:25:43 +0200",
+      "biomeswevegone:orchard": "2025-05-15 17:23:56 +0200",
+      "biomeswevegone:coniferous_forest": "2025-05-15 17:24:51 +0200"
+    },
+    "done": false
+  },
+  "biomeswevegone:recipes/transportation/florus_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/czekanowskia_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/ankylosaurus_chestplate": {
+    "criteria": {
+      "has_ankylosaurus_scute": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/blue_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/witch_hazel_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cladophlebis_on_a_stick": {
+    "criteria": {
+      "has_cladophlebis": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/zelkova_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/green_enchanted_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-05-15 17:23:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/protopiceoxylon_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/araucaria_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/transportation/ironwood_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coelophysis_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paleoscribe": {
+    "criteria": {
+      "has_fossils": "2025-05-15 17:23:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/ginkgo_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-15 17:24:11 +0200",
+      "minecraft:desert": "2025-05-15 17:26:30 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-15 17:24:10 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,141 @@
+{
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/allosaurus_skeleton": {
+    "criteria": {
+      "has_the_recipe": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/plesiohadros_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-05-15 15:48:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-15 15:48:52 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:orchard": "2025-05-15 15:48:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/ankylosaurus_chestplate": {
+    "criteria": {
+      "has_ankylosaurus_scute": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cladophlebis_on_a_stick": {
+    "criteria": {
+      "has_cladophlebis": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "totw_modded:root": {
+    "criteria": {
+      "sample_trigger": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coelophysis_skeleton": {
+    "criteria": {
+      "has_skull": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paleoscribe": {
+    "criteria": {
+      "has_fossils": "2025-05-15 15:48:51 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
