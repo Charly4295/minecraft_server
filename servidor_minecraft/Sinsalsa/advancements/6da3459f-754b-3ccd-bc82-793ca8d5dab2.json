@@ -14174,21 +14174,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_leggings": {
+  "biomeswevegone:recipes/building_blocks/birch_planks_from_palo_verde_logs": {
     "criteria": {
-      "has_item": "2025-07-03 23:04:04 +0000"
+      "has_logs": "2025-07-03 22:00:25 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
-      "has_item": "2025-07-03 23:07:05 +0000"
+      "has_log": "2025-07-03 22:03:35 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
     "criteria": {
-      "has_item": "2025-07-03 23:04:07 +0000"
+      "has_stripped_logs": "2025-07-03 22:03:35 +0000"
     },
     "done": true
   },
@@ -14204,21 +14204,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-03 22:03:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-07-03 22:12:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:04 +0000"
     },
     "done": true
   },
@@ -14228,39 +14216,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_large_sauropod_meat": {
-    "criteria": {
-      "has_meat": "2025-07-03 23:21:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
-    "criteria": {
-      "has_sea_serpent_scales_deepblue": "2025-07-03 23:07:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-07-03 22:12:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_leggings": {
-    "criteria": {
-      "has_item": "2025-07-03 23:07:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-03 22:03:35 +0000"
     },
     "done": true
   },
@@ -14270,54 +14228,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:04 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/birch_planks_from_palo_verde_logs": {
-    "criteria": {
-      "has_logs": "2025-07-03 22:00:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-03 23:07:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2025-07-03 22:12:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_small_marginocephalian_meat": {
-    "criteria": {
-      "has_meat": "2025-07-03 23:11:28 +0000"
-    },
-    "done": true
-  },
-  "prehistoricfauna:prehistoricfauna/general/fragile": {
-    "criteria": {
-      "goyocephale": "2025-07-03 23:15:04 +0000",
-      "aepyornithomimus": "2025-07-03 23:17:50 +0000",
-      "udanoceratops": "2025-07-03 23:16:04 +0000",
-      "citipati": "2025-07-03 23:17:58 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-07-03 23:04:04 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:07 +0000"
     },
     "done": true
   },
@@ -14327,51 +14240,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_large_ornithischian_meat": {
-    "criteria": {
-      "has_meat": "2025-07-03 23:18:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-07-03 23:04:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-07-03 22:12:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_large_marginocephalian_meat": {
-    "criteria": {
-      "has_meat": "2025-07-03 23:13:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-07-03 22:12:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_deepblue_boots": {
-    "criteria": {
-      "has_item": "2025-07-03 23:07:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_boots": {
-    "criteria": {
-      "has_item": "2025-07-03 23:04:04 +0000"
     },
     "done": true
   },
@@ -14387,9 +14264,132 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-07-03 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-03 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-03 23:04:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-03 23:07:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-07-03 23:07:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-03 23:07:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-03 23:07:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-07-03 23:07:05 +0000"
+    },
+    "done": true
+  },
   "prehistoricfauna:prehistoricfauna/general/cretaceous_time_travel": {
     "criteria": {
       "cretaceous": "2025-07-03 23:08:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_small_marginocephalian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-03 23:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_marginocephalian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-03 23:13:29 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/fragile": {
+    "criteria": {
+      "goyocephale": "2025-07-03 23:15:04 +0000",
+      "aepyornithomimus": "2025-07-03 23:17:50 +0000",
+      "udanoceratops": "2025-07-03 23:16:04 +0000",
+      "citipati": "2025-07-03 23:17:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_large_ornithischian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-03 23:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_large_sauropod_meat": {
+    "criteria": {
+      "has_meat": "2025-07-03 23:21:06 +0000"
     },
     "done": true
   },
