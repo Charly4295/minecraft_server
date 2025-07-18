@@ -652,3 +652,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [18Jul2025 20:00:10.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was slain by Drowned
 [18Jul2025 20:00:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
 [18Jul2025 20:00:17.574] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[18Jul2025 20:18:23.648] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.96.9.62:37819] logged in with entity id 7894 at (-34.519288431639836, 94.84904653481131, -712.7816173951497)
+[18Jul2025 20:18:23.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[18Jul2025 20:19:53.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame moved too quickly! -7.986375213004813,4.166109260938214,-4.510887936117456
+[18Jul2025 20:28:45.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Disconnected
+[18Jul2025 20:28:45.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[18Jul2025 20:29:13.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.96.9.62:53437] logged in with entity id 11872 at (-108.24881695060826, 111.5, -764.4008430298397)
+[18Jul2025 20:29:13.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[18Jul2025 20:41:40.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[18Jul2025 20:43:22.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Jul2025 20:43:40.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2807ms or 56 ticks behind
+[18Jul2025 20:43:57.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Jul2025 20:44:22.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Disconnected
+[18Jul2025 20:44:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[18Jul2025 20:47:33.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 lost connection: Disconnected
+[18Jul2025 20:47:33.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 left the game
+[18Jul2025 20:47:44.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jul2025 20:47:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jul2025 20:47:44.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jul2025 20:47:44.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:overworld
+[18Jul2025 20:47:44.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/aether:the_aether
+[18Jul2025 20:47:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:triassic
+[18Jul2025 20:47:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/mofus_better_end_:broken_constellation
+[18Jul2025 20:47:44.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:jurassic
+[18Jul2025 20:47:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:cretaceous
+[18Jul2025 20:47:44.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_end
+[18Jul2025 20:47:44.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_nether
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Sinsalsa): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jul2025 20:47:44.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jul2025 20:47:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jul2025 20:47:45.018] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Jul2025 20:47:45.019] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[18Jul2025 20:47:45.023] [Server thread/INFO] [Framework/]: Finished unloading server configs
