@@ -13209,69 +13209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_warped_table": {
-    "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-06 16:31:07 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_cherry_table": {
-    "criteria": {
-      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/magical_eye": {
-    "criteria": {
-      "magical_eye": "2025-07-06 17:51:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_warped_table": {
-    "criteria": {
-      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_acacia_table": {
-    "criteria": {
-      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-07-06 19:03:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
-    "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
-    "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
     },
     "done": true
   },
@@ -13281,21 +13221,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
+      "has_melon": "2025-07-06 16:31:07 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+      "has_melon": "2025-07-06 16:31:07 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+  "farmersdelight:recipes/cooking/churro": {
     "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+      "has_any_ingredient": "2025-07-06 17:14:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-07-06 17:49:49 +0000"
+    },
+    "done": false
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-07-06 17:51:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_cherry_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_warped_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
     },
     "done": true
   },
@@ -13311,51 +13281,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-07-06 16:31:07 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_dark_oak_table": {
     "criteria": {
       "has_brown_carpet": "2025-07-06 17:57:20 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
-    "criteria": {
-      "killed_evoker": "2025-07-06 17:49:49 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
-    "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/churro": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-06 17:14:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
     "criteria": {
       "has_brown_carpet": "2025-07-06 17:57:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-07-06 18:13:07 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_birch_table": {
-    "criteria": {
-      "has_red_carpet": "2025-07-06 18:06:51 +0000"
     },
     "done": true
   },
@@ -13371,15 +13305,75 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+  "valhelsia_furniture:recipes/decorations/brown_crimson_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-06 18:06:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_table": {
     "criteria": {
       "has_red_carpet": "2025-07-06 18:06:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
+  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
     "criteria": {
-      "has_melon": "2025-07-06 16:31:07 +0000"
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-06 18:06:51 +0000"
     },
     "done": true
   },
@@ -13389,27 +13383,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/allium_petal_block": {
-    "criteria": {
-      "has_allium": "2025-07-06 18:13:07 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_crimson_table": {
-    "criteria": {
-      "has_brown_carpet": "2025-07-06 17:57:20 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_oak_table": {
     "criteria": {
       "has_red_carpet": "2025-07-06 18:06:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-06 18:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/allium_petal_block": {
+    "criteria": {
+      "has_allium": "2025-07-06 18:13:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-07-06 18:13:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-06 19:03:41 +0000"
     },
     "done": true
   },
