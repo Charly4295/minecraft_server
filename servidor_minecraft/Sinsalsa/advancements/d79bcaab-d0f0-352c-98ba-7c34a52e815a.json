@@ -13413,6 +13413,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 10:16:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
     "criteria": {
       "has_item": "2025-07-21 10:16:22 +0000"
@@ -13422,12 +13428,6 @@
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-07-21 10:16:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-21 10:16:14 +0000"
     },
     "done": true
   },
