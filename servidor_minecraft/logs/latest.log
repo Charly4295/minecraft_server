@@ -678,3 +678,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Jul2025 22:10:55.585] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 6 | client: 5
 [22Jul2025 22:11:17.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! 3.766993154192278,-2.333059455978926,-9.086130036975192
 [22Jul2025 22:11:21.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 36039ms or 720 ticks behind
+[22Jul2025 22:22:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 died
+[22Jul2025 22:22:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
+[22Jul2025 22:22:31.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[22Jul2025 22:22:31.706] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved

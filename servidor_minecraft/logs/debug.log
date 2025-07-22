@@ -9094,3 +9094,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [22Jul2025 22:17:09.935] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@43afabbd, c=net.minecraft.world.inventory.ChestMenu@3dbad621, b=0, e=53}
 [22Jul2025 22:19:59.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
 [22Jul2025 22:19:59.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[22Jul2025 22:22:25.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 died
+[22Jul2025 22:22:27.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
+[22Jul2025 22:22:31.614] [Server thread/DEBUG] [tombstone/]: A new grave of the player NATOM99 was created at position [x:-29, y:11, z:-790, dim:minecraft:overworld]
+[22Jul2025 22:22:31.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[22Jul2025 22:22:31.706] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[22Jul2025 22:25:04.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[22Jul2025 22:25:04.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[22Jul2025 22:30:03.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[22Jul2025 22:30:03.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
