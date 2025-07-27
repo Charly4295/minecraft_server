@@ -659,3 +659,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 22:34:19.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> sdads
 [27Jul2025 22:37:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdads
 [27Jul2025 22:41:10.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> saud
+[27Jul2025 22:43:35.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDAS
+[27Jul2025 22:46:00.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> PINGA
+[27Jul2025 22:48:51.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 lost connection: Disconnected
+[27Jul2025 22:48:51.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 left the game
+[27Jul2025 22:49:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Jul2025 22:49:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Jul2025 22:49:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Jul2025 22:49:26.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:overworld
+[27Jul2025 22:49:26.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:cretaceous
+[27Jul2025 22:49:26.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:jurassic
+[27Jul2025 22:49:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/aether:the_aether
+[27Jul2025 22:49:26.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/mofus_better_end_:broken_constellation
+[27Jul2025 22:49:26.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:triassic
+[27Jul2025 22:49:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_nether
+[27Jul2025 22:49:26.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_end
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Sinsalsa): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[27Jul2025 22:49:27.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Jul2025 22:49:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Jul2025 22:49:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Jul2025 22:49:27.029] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Jul2025 22:49:27.031] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Jul2025 22:49:27.033] [Server thread/INFO] [Framework/]: Finished unloading server configs
