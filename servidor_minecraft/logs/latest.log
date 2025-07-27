@@ -662,3 +662,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 23:12:23.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDA
 [27Jul2025 23:15:00.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! 7.573054432816807,-39.0,-0.6589829156142741
 [27Jul2025 23:15:29.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! -7.999999225139618,39.0,-0.7605351014113921
+[27Jul2025 23:18:00.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDA
+[27Jul2025 23:22:23.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDA
+[27Jul2025 23:23:27.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDADSA
+[27Jul2025 23:25:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASD
+[27Jul2025 23:26:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SDF
