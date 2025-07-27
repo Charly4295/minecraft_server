@@ -667,3 +667,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 23:23:27.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDADSA
 [27Jul2025 23:25:31.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASD
 [27Jul2025 23:26:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SDF
+[27Jul2025 23:29:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASD
+[27Jul2025 23:31:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDSA
+[27Jul2025 23:36:53.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> a s

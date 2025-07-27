@@ -9113,3 +9113,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 23:25:41.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
 [27Jul2025 23:25:41.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
 [27Jul2025 23:26:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SDF
+[27Jul2025 23:29:08.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASD
+[27Jul2025 23:30:41.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[27Jul2025 23:30:41.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[27Jul2025 23:31:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDSA
+[27Jul2025 23:35:41.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[27Jul2025 23:35:41.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[27Jul2025 23:36:53.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> a s
