@@ -14715,12 +14715,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-07-21 12:35:20 +0000"
-    },
-    "done": true
-  },
   "mynethersdelight:recipes/misc/crafting/breakfast_sampler": {
     "criteria": {
       "has_sausage": "2025-07-21 12:13:49 +0000"
@@ -14730,6 +14724,12 @@
   "alexsmobs:alexsmobs/ender_flu": {
     "criteria": {
       "all_effects": "2025-07-21 12:35:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-07-21 12:35:20 +0000"
     },
     "done": true
   },
