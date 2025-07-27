@@ -672,3 +672,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 21:46:51.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
 [27Jul2025 21:46:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
 [27Jul2025 21:47:01.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDADS
+[27Jul2025 21:47:50.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:58589] logged in with entity id 6452 at (-59.71538621372562, 60.0, -690.8312482738028)
+[27Jul2025 21:47:50.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 21:48:46.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDA
+[27Jul2025 21:49:13.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> tt
+[27Jul2025 21:50:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> AS
+[27Jul2025 21:52:16.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> y
+[27Jul2025 21:53:42.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDAD
+[27Jul2025 21:54:31.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame moved too quickly! 9.700855353584197,1.0244240882136921,-2.8848486230031085
+[27Jul2025 21:54:33.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> tt
+[27Jul2025 21:55:35.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
+[27Jul2025 21:55:35.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[27Jul2025 21:55:41.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASDAD
+[27Jul2025 21:55:46.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:52615] logged in with entity id 8354 at (-26.985338903470893, 98.0, -776.1980721399594)
+[27Jul2025 21:55:46.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 21:55:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> tt
+[27Jul2025 21:56:16.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
+[27Jul2025 21:56:16.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[27Jul2025 21:56:33.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:54509] logged in with entity id 8498 at (-34.03451983334872, 98.0, -775.9079467752122)
+[27Jul2025 21:56:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 21:56:49.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame moved too quickly! -7.284762445771861,-7.231523797587016,0.33201701827545094
