@@ -692,3 +692,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 21:56:33.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:54509] logged in with entity id 8498 at (-34.03451983334872, 98.0, -775.9079467752122)
 [27Jul2025 21:56:33.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
 [27Jul2025 21:56:49.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame moved too quickly! -7.284762445771861,-7.231523797587016,0.33201701827545094
+[27Jul2025 21:59:30.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! -0.32830865861133773,-20.0,1.5729357748100483
+[27Jul2025 22:01:18.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
+[27Jul2025 22:01:18.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[27Jul2025 22:01:39.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:48127] logged in with entity id 21369 at (37.454871401042986, 70.0, -891.2758178008489)
+[27Jul2025 22:01:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 22:02:07.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> t
+[27Jul2025 22:02:09.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
+[27Jul2025 22:02:09.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[27Jul2025 22:02:33.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:43691] logged in with entity id 21434 at (37.454871401042986, 70.0, -891.2758178008489)
+[27Jul2025 22:02:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 22:03:38.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame moved too quickly! 0.2817524227621746,20.0,-1.999987781047821
+[27Jul2025 22:03:38.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! 0.25360255410804555,20.0,-1.999987781047821
+[27Jul2025 22:04:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> yysda
+[27Jul2025 22:06:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> t
+[27Jul2025 22:06:33.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tierra_Tragame lost connection: Timed out
+[27Jul2025 22:06:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame left the game
+[27Jul2025 22:07:02.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tierra_Tragame[/127.72.163.175:48655] logged in with entity id 25463 at (-13.5, 110.0, -777.5)
+[27Jul2025 22:07:02.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tierra_Tragame joined the game
+[27Jul2025 22:07:40.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tierra_Tragame> t
+[27Jul2025 22:10:32.134] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[27Jul2025 22:10:32.135] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[27Jul2025 22:10:32.687] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 65d1d2c9-36da-4729-9946-9d0a1c7a3ccc
+[27Jul2025 22:10:32.735] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4d63f465-2f9c-439e-b249-9469b1e78584
+[27Jul2025 22:10:32.736] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/minecraft_server/servidor_minecraft/./crash-reports/crash-2025-07-27_22.10.32-server.txt

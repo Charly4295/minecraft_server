@@ -13511,5 +13511,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_small_marginocephalian_meat": {
+    "criteria": {
+      "has_meat": "2025-07-27 22:01:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
