@@ -9009,3 +9009,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [27Jul2025 21:23:29.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
 [27Jul2025 21:23:29.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
 [27Jul2025 21:24:21.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> a fsd
+[27Jul2025 21:27:14.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SAHSDSA
+[27Jul2025 21:28:29.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[27Jul2025 21:28:29.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[27Jul2025 21:29:47.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SAFDS
+[27Jul2025 21:33:29.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[27Jul2025 21:33:29.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[27Jul2025 21:35:08.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> ASD
+[27Jul2025 21:36:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SADKASKDSJK
+[27Jul2025 21:36:07.563] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Got action SORT slot 51
+[27Jul2025 21:36:07.564] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Slot mapping {net.minecraft.world.CompoundContainer@27059dd2=InventoryMapping{i=net.minecraft.world.CompoundContainer@27059dd2, c=net.minecraft.world.inventory.ChestMenu@15cbf5bc, b=0, e=53}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@15cbf5bc, b=81, e=89}, []=InventoryMapping{i=[], c=net.minecraft.world.inventory.ChestMenu@15cbf5bc, b=54, e=80}}
+[27Jul2025 21:36:07.564] [Server thread/DEBUG] [cpw.mods.inventorysorter.InventorySorter/]: Action slot InventoryMapping{i=net.minecraft.world.CompoundContainer@27059dd2, c=net.minecraft.world.inventory.ChestMenu@15cbf5bc, b=0, e=53}
+[27Jul2025 21:37:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> SADSA
