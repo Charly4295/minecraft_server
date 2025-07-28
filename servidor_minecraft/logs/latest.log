@@ -650,3 +650,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [28Jul2025 13:18:45.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
 [28Jul2025 13:18:48.813] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: GlareEntity['Glare'/1717, l='ServerLevel[CANDIDATO 1.3]', x=75.74, y=-25.95, z=-976.04]
 [28Jul2025 13:29:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
+[28Jul2025 13:35:03.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 lost connection: Disconnected
+[28Jul2025 13:35:03.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 left the game
+[28Jul2025 13:35:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jul2025 13:35:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jul2025 13:35:11.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jul2025 13:35:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:overworld
+[28Jul2025 13:35:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:cretaceous
+[28Jul2025 13:35:11.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/aether:the_aether
+[28Jul2025 13:35:11.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_end
+[28Jul2025 13:35:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:jurassic
+[28Jul2025 13:35:11.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/minecraft:the_nether
+[28Jul2025 13:35:11.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/mofus_better_end_:broken_constellation
+[28Jul2025 13:35:11.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[CANDIDATO 1.3]'/prehistoricfauna:triassic
+[28Jul2025 13:35:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Sinsalsa): All chunks are saved
+[28Jul2025 13:35:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cretaceous): All chunks are saved
+[28Jul2025 13:35:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[28Jul2025 13:35:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jul2025 13:35:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (jurassic): All chunks are saved
+[28Jul2025 13:35:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jul2025 13:35:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[28Jul2025 13:35:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (triassic): All chunks are saved
+[28Jul2025 13:35:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jul2025 13:35:12.526] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Jul2025 13:35:12.532] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[28Jul2025 13:35:12.535] [Server thread/INFO] [Framework/]: Finished unloading server configs
