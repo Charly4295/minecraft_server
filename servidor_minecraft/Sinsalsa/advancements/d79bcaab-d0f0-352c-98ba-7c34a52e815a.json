@@ -13517,15 +13517,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_button": {
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
-      "has_planks": "2025-07-28 12:58:35 +0000"
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-07-28 12:05:06 +0000"
     },
     "done": true
   },
   "create:glass_pipe": {
     "criteria": {
       "0": "2025-07-28 12:30:56 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-07-28 12:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-28 12:58:35 +0000"
     },
     "done": true
   },
@@ -13541,12 +13583,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 12:58:35 +0000"
@@ -13559,12 +13595,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-28 12:58:35 +0000"
@@ -13574,12 +13604,6 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-07-28 12:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
     },
     "done": true
   },
@@ -13715,18 +13739,6 @@
     },
     "done": true
   },
-  "create:hose_pulley": {
-    "criteria": {
-      "0": "2025-07-28 12:31:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-28 12:58:35 +0000"
@@ -13742,12 +13754,6 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 12:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
     },
     "done": true
   },
@@ -13784,12 +13790,6 @@
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-07-28 12:58:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-07-28 12:05:06 +0000"
     },
     "done": true
   },
