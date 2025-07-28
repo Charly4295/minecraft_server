@@ -13517,6 +13517,12 @@
     },
     "done": true
   },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-07-28 12:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-28 12:05:06 +0000"
@@ -13532,6 +13538,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-28 12:05:06 +0000"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-07-28 12:31:00 +0000"
     },
     "done": true
   },

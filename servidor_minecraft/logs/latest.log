@@ -652,3 +652,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [28Jul2025 12:16:24.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 died
 [28Jul2025 12:16:26.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
 [28Jul2025 12:16:28.247] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[28Jul2025 12:26:53.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdsad
+[28Jul2025 12:28:52.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asd
+[28Jul2025 12:32:44.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asd
+[28Jul2025 12:35:04.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asd
