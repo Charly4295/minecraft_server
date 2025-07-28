@@ -674,3 +674,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [28Jul2025 15:13:45.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
 [28Jul2025 15:15:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asd
 [28Jul2025 15:21:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdad
+[28Jul2025 15:24:59.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[28Jul2025 15:25:50.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! 3.000000774860382,-40.0,-0.7828015724234092
+[28Jul2025 15:25:50.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[28Jul2025 15:25:53.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! -2.999999225139618,40.0,0.7718380574548291
+[28Jul2025 15:30:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> dadsa
+[28Jul2025 15:34:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 has reached the goal [Magma Wheel]
+[28Jul2025 15:36:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was slain by Crimson Mosquito
+[28Jul2025 15:36:09.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
+[28Jul2025 15:36:09.706] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[28Jul2025 15:36:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
+[28Jul2025 15:37:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdsad
+[28Jul2025 15:40:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> adad

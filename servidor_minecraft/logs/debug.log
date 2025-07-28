@@ -9062,3 +9062,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [28Jul2025 15:21:12.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
 [28Jul2025 15:21:12.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
 [28Jul2025 15:21:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdad
+[28Jul2025 15:24:59.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2423ms or 48 ticks behind
+[28Jul2025 15:25:50.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! 3.000000774860382,-40.0,-0.7828015724234092
+[28Jul2025 15:25:50.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[28Jul2025 15:25:53.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NATOM99 moved too quickly! -2.999999225139618,40.0,0.7718380574548291
+[28Jul2025 15:26:16.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[28Jul2025 15:26:16.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[28Jul2025 15:30:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> dadsa
+[28Jul2025 15:31:16.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[28Jul2025 15:31:17.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[28Jul2025 15:32:53.537] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@6f14d20a for service interface com.blamejared.clumps.platform.IEventHelper
+[28Jul2025 15:32:53.538] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@13c11285 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[28Jul2025 15:34:42.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 has reached the goal [Magma Wheel]
+[28Jul2025 15:36:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was slain by Crimson Mosquito
+[28Jul2025 15:36:09.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
+[28Jul2025 15:36:09.680] [Server thread/DEBUG] [tombstone/]: A new grave of the player NATOM99 was created at position [x:-12, y:50, z:-110, dim:minecraft:the_nether]
+[28Jul2025 15:36:09.706] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[28Jul2025 15:36:17.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[28Jul2025 15:36:17.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[28Jul2025 15:36:19.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
+[28Jul2025 15:37:18.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdsad
+[28Jul2025 15:40:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> adad
+[28Jul2025 15:41:16.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save CANDIDATO 1.3
+[28Jul2025 15:41:16.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete CANDIDATO 1.3
+[28Jul2025 15:41:44.992] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-8, y=50, z=-111}) doesn't have enough leaves around top most log
