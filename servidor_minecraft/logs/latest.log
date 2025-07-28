@@ -659,3 +659,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [28Jul2025 14:50:54.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> awsda
 [28Jul2025 14:51:25.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asd+
 [28Jul2025 14:52:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asdad
+[28Jul2025 14:54:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 burned to death
+[28Jul2025 14:54:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NATOM99 was not rescued in time
+[28Jul2025 14:54:10.696] [Server thread/INFO] [tombstone/]: The player NATOM99 has successfully been saved
+[28Jul2025 14:56:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
+[28Jul2025 14:57:47.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
+[28Jul2025 15:00:34.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> fssfd
+[28Jul2025 15:02:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NATOM99> asda
